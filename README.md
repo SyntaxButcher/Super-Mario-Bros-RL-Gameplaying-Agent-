@@ -2,6 +2,6 @@
 
 Code for our project on comparing 3 Deep RL algorthms for Super Mario.
 
-![](https://github.com/Super-Mario-Bros-RL-Gameplaying-Agent-/PPO.gif)
+![PPO](https://github.com/Super-Mario-Bros-RL-Gameplaying-Agent-/PPO.gif)
 
-![](https://github.com/Super-Mario-Bros-RL-Gameplaying-Agent-/DDQN.gif)
+![DDQN](https://github.com/Super-Mario-Bros-RL-Gameplaying-Agent-/DDQN.gif)
